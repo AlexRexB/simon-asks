@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlexRexB/simon-asks/static/css/main.1cac0708.chunk.css",
+    "main.js": "/AlexRexB/simon-asks/static/js/main.12ca49f1.chunk.js",
+    "main.js.map": "/AlexRexB/simon-asks/static/js/main.12ca49f1.chunk.js.map",
+    "runtime-main.js": "/AlexRexB/simon-asks/static/js/runtime-main.b5609931.js",
+    "runtime-main.js.map": "/AlexRexB/simon-asks/static/js/runtime-main.b5609931.js.map",
+    "static/js/2.af8e36bd.chunk.js": "/AlexRexB/simon-asks/static/js/2.af8e36bd.chunk.js",
+    "static/js/2.af8e36bd.chunk.js.map": "/AlexRexB/simon-asks/static/js/2.af8e36bd.chunk.js.map",
+    "index.html": "/AlexRexB/simon-asks/index.html",
+    "precache-manifest.6277f40fe930a2f29c66101f4801debf.js": "/AlexRexB/simon-asks/precache-manifest.6277f40fe930a2f29c66101f4801debf.js",
+    "service-worker.js": "/AlexRexB/simon-asks/service-worker.js",
+    "static/css/main.1cac0708.chunk.css.map": "/AlexRexB/simon-asks/static/css/main.1cac0708.chunk.css.map",
+    "static/js/2.af8e36bd.chunk.js.LICENSE.txt": "/AlexRexB/simon-asks/static/js/2.af8e36bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5609931.js",
+    "static/js/2.af8e36bd.chunk.js",
+    "static/css/main.1cac0708.chunk.css",
+    "static/js/main.12ca49f1.chunk.js"
+  ]
+}
